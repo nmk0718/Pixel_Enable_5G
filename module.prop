@@ -1,0 +1,6 @@
+id=Pixel_Enable_5G
+name=Pixel Enable 5G
+version=v1.0.0
+versionCode=201
+author=nmk0718
+description=Unlocks VoLTE, VoWiFi, 5G (SA+NSA), 5GHz/6GHz hotspot, Wi-Fi repeater and body temperature on Google Pixel devices in regions not officially supported by Google.
